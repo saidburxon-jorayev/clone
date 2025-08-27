@@ -8,7 +8,7 @@ const NotFound = () => {
         404
       </h1>
       <p className="text-2xl text-gray-700 mb-8 font-medium">
-        Bu joyi qilishga berilmagan
+        Xech narsa topilmadi!
       </p>
       <button
         onClick={() => navigate("/")}
